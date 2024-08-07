@@ -124,7 +124,6 @@ Vou te passar alguns laudos de Tomografias de Crânio.
 Quero que você me responda em formato de tabela se há algum achado crítico em cada um dos laudos.
 Caso haja algum achado crítico, coloque qual seria. Caso contrário, só escreva "Sem achado crítico".
 Lembre de considerar a comparação com exames anteriores. Se o achado está estável ou regrediu em relação ao exame prévio, não considere como um achado crítico.
-Lembre também que achados críticos são aqueles que colocam o paciente em risco de vida imediato e necessitam de alguma conduta médica nas próximas horas.
 
 
 TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO
