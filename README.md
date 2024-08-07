@@ -35,7 +35,6 @@ Exame sem alterações significativas.
 NOTA:
 Espessamento mucoso no seio maxilar à direita.
 Cisto de retenção/pólipo no seio maxilar à esquerda.
-Alterado
 
 
 
