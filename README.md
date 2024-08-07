@@ -9,7 +9,7 @@ Clique no ícone no canto superior direito da caixa abaixo e cole no GPT3.5.
 
 ```
 Vou te passar alguns laudos de Tomografias de Crânio.
-Quero que você me responda em formato de tabela se há algum achado crítico em cada um dos laudos em que valeria a pena informar o médico assistente do paciente.
+Quero que você me responda em formato de tabela se há algum achado crítico em cada um dos laudos.
 
 TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO
 
