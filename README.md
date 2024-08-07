@@ -70,21 +70,20 @@ TÉCNICA:
 Realizada aquisição volumétrica em equipamento sem multidetectores sem a injeção intravenosa do meio de contraste iodado.
 
 INDICAÇÃO:
-Exame de controle pós-operatório de hematoma intraparenquimatoso. 
+Exame de controle de hematoma intraparenquimatoso. 
 
 ANÁLISE:
-Em comparação com exame de Tomografia Computadorizada realizada em 23/11/2023 evidencia as seguintes alterações evolutivas:
+A comparação com exame de Tomografia Computadorizada realizada em 23/11/2023 evidencia as seguintes alterações evolutivas:
 
-Ressecção de hematoma intraparenquimatoso temporo-occipital à direita, permanecendo focos hemorrágicos de aspecto linear em meio à cavidade cirúrgica.
+Redução das dimensões do hematoma intraparenquimatoso temporo-insular à direita, agora medindo cerca de 2,5 x 2,2 x 1,7 cm (volume de 4,9 ml).
 
-Houve resolução da herniação subfalcina e do desvio de linha média.
-
-Sinais de manipulação cirúrgica caracterizados por craniectomia frontotemporoparietal, focos de pneumocrânio não hipertensivo, densificação e enfisema das partes moles superficiais adjacentes e pequena coleção extra-axial com espessura de 0,8 cm, que determina discreto aplanamento da superfície cerebral adjacente.
+Houve redução do efeito expansivo, caracterizado por menor apagamento dos sulcos corticais e fissuras encefálicas adjacentes, e menor desvio de linha média, agora estimado em 3 mm.
 
 Hemoventrículo no corno posterior de ambos ventrículos laterais e no quarto ventrículo, menor em relação ao exame prévio.
 
 Restante do exame sem alterações evolutivas significativas, permanecendo:
 
+Pequenos focos de hemorragia subaracnoide frontotemporal à direita.
 Pequena dilatação desproporcional do sistema ventricular supratentorial, sem sinais de transudação liquórica.
 Acentuação dos demais sulcos e cisternas encefálicas.
 Lacunas isquêmicas antigas núcleocapsulares bilaterais.
@@ -183,21 +182,20 @@ TÉCNICA:
 Realizada aquisição volumétrica em equipamento sem multidetectores sem a injeção intravenosa do meio de contraste iodado.
 
 INDICAÇÃO:
-Exame de controle pós-operatório de hematoma intraparenquimatoso. 
+Exame de controle de hematoma intraparenquimatoso. 
 
 ANÁLISE:
-Em comparação com exame de Tomografia Computadorizada realizada em 23/11/2023 evidencia as seguintes alterações evolutivas:
+A comparação com exame de Tomografia Computadorizada realizada em 23/11/2023 evidencia as seguintes alterações evolutivas:
 
-Ressecção de hematoma intraparenquimatoso temporo-occipital à direita, permanecendo focos hemorrágicos de aspecto linear em meio à cavidade cirúrgica.
+Redução das dimensões do hematoma intraparenquimatoso temporo-insular à direita, agora medindo cerca de 2,5 x 2,2 x 1,7 cm (volume de 4,9 ml).
 
-Houve resolução da herniação subfalcina e do desvio de linha média.
-
-Sinais de manipulação cirúrgica caracterizados por craniectomia frontotemporoparietal, focos de pneumocrânio não hipertensivo, densificação e enfisema das partes moles superficiais adjacentes e pequena coleção extra-axial com espessura de 0,8 cm, que determina discreto aplanamento da superfície cerebral adjacente.
+Houve redução do efeito expansivo, caracterizado por menor apagamento dos sulcos corticais e fissuras encefálicas adjacentes, e menor desvio de linha média, agora estimado em 3 mm.
 
 Hemoventrículo no corno posterior de ambos ventrículos laterais e no quarto ventrículo, menor em relação ao exame prévio.
 
 Restante do exame sem alterações evolutivas significativas, permanecendo:
 
+Pequenos focos de hemorragia subaracnoide frontotemporal à direita.
 Pequena dilatação desproporcional do sistema ventricular supratentorial, sem sinais de transudação liquórica.
 Acentuação dos demais sulcos e cisternas encefálicas.
 Lacunas isquêmicas antigas núcleocapsulares bilaterais.
