@@ -135,19 +135,20 @@ INDICAÇÃO:
 Investigação de baixa acuidade visual súbita.
 
 ANÁLISE:
-Calota craniana íntegra.
-Sulcos e cisternas encefálicas normais.
-Parênquima cerebral com morfologia e coeficientes de atenuação normais.
-Tronco cerebral e cerebelo de aspecto conservado.
-Sistema ventricular com morfologia e dimensões normais.
-Estruturas da linha mediana sem desvios significativos.
+Sulcos e cisternas encefálicas amplos, sem sinais de predileção lobar.
+Áreas hipoatenuantes de limites mal definidos são encontradas de maneira esparsa na substância branca dos centro semi-ovais e coroas radiadas.
+Restante do parênquima cerebral com morfologia e coeficientes de atenuação normais.
+Discreta ectasia do sistema ventricular, de aspecto compensatório.
 Ausência de coleções hemorrágicas intra ou extra-axiais.
-Ausência de realces anormais ao agente de contraste.
+Aneurisma sacular no segmento M1 da artéria cerebral média direita, com orientação superior, contornos regulares, colo de 3 mm e saco herniário medindo 8 mm.
+
 
 CONCLUSÃO:
-Exame sem alterações significativas.
+Sinais de redução volumétrica encefálica, acima do habitual para a faixa etária.
+Sinais de microangiopatia / gliose.
+Aneurisma sacular no segmento M1 da artéria cerebral média direita, sem sinais de instabilidade.
 
-NOTA:
+Achados adicionais:
 Espessamento mucoso no seio maxilar à direita.
 Cisto de retenção/pólipo no seio maxilar à esquerda.
 
