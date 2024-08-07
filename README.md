@@ -32,7 +32,7 @@ Ausência de realces anormais ao agente de contraste.
 CONCLUSÃO:
 Exame sem alterações significativas.
 
-NOTA:
+Achados adicionais:
 Espessamento mucoso no seio maxilar à direita.
 Cisto de retenção/pólipo no seio maxilar à esquerda.
 
